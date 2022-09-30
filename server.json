@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-09-25T14:00:08.492Z"
+    },
+    {
+      "description": "Criação de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-30T13:20:49.921Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel de Frango",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 5,
+      "createdAt": "2022-09-30T13:40:30.040Z",
+      "id": 5
     }
   ]
 }
